@@ -1,7 +1,7 @@
 /* 
  * File:   SortingCompetition.cpp
  * Author: charlie
- * 
+ * xxx
  * Created on October 2, 2013, 11:18 AM
  */
 #include <string>
